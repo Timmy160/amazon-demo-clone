@@ -41,9 +41,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-left: 4px;
-    width: 180px;
+    width: 100px;
     height: 130px;
+    font-size: 12px;
   }
 
   .checkoutProduct_image {
@@ -63,7 +63,8 @@
     border: 1px solid;
     margin-top: 10px;
     border-color: #a88734 #9c7e31 #846a29;
-    border-radius: 6px;
+    border-radius: 4px;
+    font-size: 13px;
     color: #111;
   }
 }
