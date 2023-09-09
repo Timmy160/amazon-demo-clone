@@ -131,6 +131,57 @@ function Home() {
             image="https://m.media-amazon.com/images/I/51f4vw-x-SL._AC_UL320_.jpg"
           />
         </div>
+
+        <div className="home_row">
+          <Product
+            id="908212332"
+            title="Hilltichu Womens Color Block Round Neck Tunic Tops Casual Long Sleeve Shirt Blouse"
+            price={25}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/71g8plxyQEL._AC_UL320_.jpg"
+          />
+          <Product
+            id="908293009"
+            title="Halife Women's Lightweight Color Block Long Sleeve Loose Fit Pullover Sweatshirts Tunics Tops Shirts"
+            price={19.56}
+            rating={5}
+            image="https://m.media-amazon.com/images/I/71ez+ZlaNuL._AC_UL320_.jpg"
+          />
+        </div>
+
+        <div className="home_row">
+          <Product
+            id="908212332"
+            title="Women's Summer Tops Ruffle Sleeve V Neck Tunic Shirts Business Casual Flowy Blouses for Women"
+            price={19.99}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/61MmovJUPtL._AC_UL320_.jpg"
+          />
+          <Product
+            id="9082998009"
+            title="Floerns Women's Sheer See Through Mock Neck Star Pattern Mesh Blouse Tops Without Bra"
+            price={15}
+            rating={3}
+            image="https://m.media-amazon.com/images/I/81FdKReFkjL._AC_UY500_.jpg"
+          />
+        </div>
+
+        <div className="home_row">
+          <Product
+            id="908212332"
+            title="Avidlove Mesh Crop Top for Women Short Sleeve Bodycon Tees See Through Blouse O Neck Clubwear"
+            price={15}
+            rating={4}
+            image="https://m.media-amazon.com/images/I/71xVKYVm3BL._AC_UL320_.jpg"
+          />
+          <Product
+            id="9082348009"
+            title="Disney Mickey And Friends Minnie Mouse Tie Dye Tank Top"
+            price={26}
+            rating={5}
+            image="https://m.media-amazon.com/images/I/71ExjNEvNuL._AC_UL320_.jpg"
+          />
+        </div>
       </div>
     </div>
   );
